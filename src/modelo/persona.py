@@ -16,6 +16,7 @@ class Persona:
        self.__nombre = nombre
 
    def dar_edad(self):
+       # Prueba de comentario
        return(self.__edad)
 
    def dar_nombre(self):
