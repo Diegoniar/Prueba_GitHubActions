@@ -8,6 +8,7 @@ class Persona:
 
 
    def asignar_edad(self, edad):
+       #Prueba de comentario
        self.__edad = edad
 
    def asignar_nombre(self, nombre):
